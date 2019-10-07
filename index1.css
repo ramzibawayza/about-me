@@ -8,13 +8,24 @@ p {
 	background-color: maroon;
 	color: silver;
 	text-align: center;
+	font-size: 200%;
 }
 
 div.sticky {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
+	
+	left: 0;
+	right: 0;
 	background-color: yellow;
 	padding: 20px;
 	font-size: 16px;
+}
+
+footer{
+	background-color: black;
+	color: orange;
+	text-align: center;
+	font-size: 150%;
 }
