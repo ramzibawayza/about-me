@@ -9,3 +9,12 @@ p {
 	color: silver;
 	text-align: center;
 }
+
+div.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	background-color: yellow;
+	padding: 20px;
+	font-size: 16px;
+}
