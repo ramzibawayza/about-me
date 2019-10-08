@@ -5,7 +5,7 @@ h1 {
 }
 
 p {
-	background-color: maroon;
+	background-color: black;
 	color: silver;
 	text-align: center;
 	font-size: 200%;
@@ -18,14 +18,25 @@ div.sticky {
 	
 	left: 0;
 	right: 0;
-	background-color: yellow;
+	background-color: orangered;
 	padding: 20px;
 	font-size: 16px;
 }
 
 footer{
 	background-color: black;
-	color: orange;
+	color: orangered;
 	text-align: center;
 	font-size: 150%;
+}
+h2{
+	background-color: black;
+	color: orangered;
+	display: initial;
+}
+ol li{
+	color: orangered;
+}
+article{
+	background-color: black;
 }
