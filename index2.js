@@ -13,8 +13,8 @@ var questions = [
     ],
     [
         'Is Ramzi age 24 years?',
-        'Great one, you got 1 point',
-        'WHAT DID YOU SAY!, Do you think I am at the age of your father, Certainly wrong answer.'
+        'WHAT DID YOU SAY!, Do you think I am at the age of your father, Certainly wrong answer.',
+        'Great one, you got 1 point'
     ],
     [
         'Has Ramzi studied at the University of Jordan?',
