@@ -70,7 +70,7 @@ while (!proceed) {
         num = num.trim();
         if (num == "") {
             proceed = false;
-            alert("Please input number ");
+            alert("Please input number ----------------- ");
             var num = prompt('What is favorite number for Ramzi?');
 
         }
@@ -85,7 +85,7 @@ while (!proceed) {
                     alert('correct answer');
 
                     break;
-    
+               
                 } else if (num >= 10) {
                     alert('too high');
 
