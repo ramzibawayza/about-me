@@ -1,21 +1,21 @@
 h1 {
 	background-color: black;
-	color: orange;
+	color: yellow;
 	text-align: center;
 }
 
 p {
 	background-color: black;
-	color: silver;
+	color: orangered;
 	text-align: center;
 	font-size: 200%;
-}
+} 
+
 
 div.sticky {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
-	
 	left: 0;
 	right: 0;
 	background-color: orangered;
@@ -25,14 +25,15 @@ div.sticky {
 
 footer{
 	background-color: black;
-	color: orangered;
+	color: yellow;
 	text-align: center;
-	font-size: 150%;
+	font-size: 170%;
 }
 h2{
 	background-color: black;
-	color: orangered;
+	color: yellow;
 	display: initial;
+	text-align: center;
 }
 ol li{
 	color: orangered;
